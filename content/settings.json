@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#ffb6c1",
   "theme": {
-    "bootswatch": "minty",
-    "custom": "clean-white"
+    "bootswatch": "lumen",
+    "custom": "niche-baby"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/marmelodoce",
