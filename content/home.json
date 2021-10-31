@@ -4,14 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "slides": [
         {
-          "img": "/img/uploads/banneramigurumi2.jpg",
+          "img": "/img/uploads/banneramigurumi3.jpg",
           "link": "",
           "alt": "Amigurumi",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "end": "2020-12-31T03:00:00.000Z",
+          "mobile_img": ""
         }
       ]
     },
