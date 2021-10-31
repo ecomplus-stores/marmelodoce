@@ -1,24 +1,24 @@
 {
-  "store_id": 14429,
-  "name": "marmelodoce",
   "domain": "marmelodoce.netlify.app",
-  "short_name": "marmelodoce",
-  "description": "marmelodoce",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ffb6c1",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "minty",
+    "custom": "niche-baby"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/marmelodoce",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Marmelo Doce",
+  "short_name": "Marmelo Doce",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/marmelodoce"
+  "secondary_color": "#a8caff",
+  "icon": "/img/icon.png",
+  "store_id": 14429,
+  "description": "Marmelo Doce",
+  "large_icon": "/img/large-icon.png"
 }
