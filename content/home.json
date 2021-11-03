@@ -21,17 +21,14 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "limit": 12,
-      "page": 1,
-      "headless": true
-    },
-    {
       "type": "page-title",
       "title": "Marmelo Doce",
       "description": "Decoração para quarto de bebê"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "slug"
     }
   ]
 }
