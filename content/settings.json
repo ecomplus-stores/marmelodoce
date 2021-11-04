@@ -1,7 +1,7 @@
 {
   "domain": "marmelodoce.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ff99c8",
+  "primary_color": "#ffcdd2",
   "theme": {
     "bootswatch": "litera",
     "custom": "niche-baby"
