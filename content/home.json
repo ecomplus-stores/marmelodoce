@@ -17,6 +17,19 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.png",
+          "alt": "Tapetes"
+        },
+        {
+          "img": "/img/uploads/2.png",
+          "alt": "Banquinhos"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": false
     },
