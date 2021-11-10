@@ -7,11 +7,11 @@
       "autoplay": 0,
       "slides": [
         {
-          "img": "/img/uploads/banner-princiapl.png",
+          "img": "/img/uploads/banner-home.jpg",
           "link": "",
-          "alt": "Amigurumi",
+          "alt": "",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2021-12-31T14:05:25.052Z",
+          "end": "2022-12-31T14:05:00.000Z",
           "mobile_img": ""
         }
       ]
@@ -28,15 +28,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "views"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-regua.png"
-        }
-      ]
+      "sort": "sales"
     }
   ]
 }
