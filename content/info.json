@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": false,
+    "show": true,
     "text": "Entregamos para todo o Brasil"
   },
   "installments": {
-    "show": false,
-    "text": "Parcele em até 12x"
+    "show": true,
+    "text": "Parcele em até 10x"
   },
   "exchange": {
     "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": false,
-    "text": "Site seguro. Protegemos seus dados"
+    "show": true,
+    "text": "10% de desconto na primeira compra"
   }
 }
