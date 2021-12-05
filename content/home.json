@@ -20,12 +20,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-tapete.jpg",
+          "img": "/img/uploads/tapetes.jpg",
           "alt": "Tapetes",
           "link": "https://www.marmelodoce.com.br/tapete-infantil"
         },
         {
-          "img": "/img/uploads/banner-banquinho.jpg",
+          "img": "/img/uploads/banquinhos.jpg",
           "alt": "Banquinhos",
           "link": "https://www.marmelodoce.com.br/banquinho"
         }
