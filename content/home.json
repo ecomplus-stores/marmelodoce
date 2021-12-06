@@ -70,6 +70,10 @@
       "page": 1,
       "collection_id": "6180a414239b7206d3fc870c:categories:Decoração:/decoracao",
       "headless": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
