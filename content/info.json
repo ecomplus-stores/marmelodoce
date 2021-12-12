@@ -12,7 +12,7 @@
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "10% de desconto na primeira compra"
   }
 }
